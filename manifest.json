@@ -1,0 +1,11 @@
+{
+  "name": "uni-app-demo3",
+  "appid": "",
+  "description": "演示系统信息、网络监听、图片选择、本地存储和剪贴板功能",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true
+  }
+}
